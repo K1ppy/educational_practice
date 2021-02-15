@@ -1,0 +1,11 @@
+commit 241de9f890c96fb7ce29115ccbf7f675a2a07f5b (HEAD -> master)
+Author: Nikita Kondibor <nikitakondibor@gmail.com>
+Date:   Mon Feb 15 20:00:05 2021 +0300
+
+    add task1\status.txt
+
+commit 727b5adc190d20d90b99c1a9883472f3f3b57db7
+Author: Nikita Kondibor <nikitakondibor@gmail.com>
+Date:   Mon Feb 15 19:45:53 2021 +0300
+
+    add .gitignore
